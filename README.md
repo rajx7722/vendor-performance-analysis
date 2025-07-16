@@ -6,7 +6,6 @@ This project is a complete procurement analytics pipeline developed to identify 
 
 ---
 
-
 ## 📘 Project Summary
 
 This project was developed to address a practical and critical business problem: optimizing vendor selection, pricing strategies, and inventory management in a retail environment. Many businesses suffer losses due to poor visibility into vendor performance, inefficient procurement, and unsold stock tied up in warehouses.
@@ -45,6 +44,10 @@ Each stage of the project reflects industry-aligned best practices:
 The project not only improves decision-making for vendor partnerships and inventory control, but also demonstrates my ability to independently deliver insights across the full data analysis lifecycle — from messy Excel files to executive dashboards.
 
 ---
+
+### 📊PowerBI Dashboard 
+
+![dashboard ss](Screenshot 2025-07-17 001215.png)
 
 ## 🧩 Key Features
 
