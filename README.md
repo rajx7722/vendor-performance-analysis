@@ -47,7 +47,7 @@ The project not only improves decision-making for vendor partnerships and invent
 
 ### 📊PowerBI Dashboard 
 
-![dashboard ss](Screenshot 2025-07-17 001215.png)
+![dashboard ss](Screenshot%202025-07-17%20001215.png)
 
 ## 🧩 Key Features
 
