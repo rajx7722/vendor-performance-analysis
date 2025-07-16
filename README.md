@@ -60,5 +60,19 @@ The project not only improves decision-making for vendor partnerships and invent
 - 📌 **Dynamic Power BI dashboard**: Slicers and DAX measures to filter by vendor, brand, or region
 
 ---
+### 🧾 Inventory Turnover Analysis
+
+![Identifying Vendors with Low Inventory Turnover](Identifying%20Vendors%20with%20Low%20Inventory%20Turnover.png)
+
+---
+### 📈 Correlation Matrix
+
+![Correlation Matrix](correlation-matrix.png)
+
+---
+### 🏷️ Vendor Contribution by Sales & Purchase
+
+![Vendor Contribution](vendor-contributers.png)
+
 
 
